@@ -18,10 +18,7 @@ AI智能剪辑工具是一个以 Windows 为主的本地桌面工作流，用于
 - 可选翻译与硬字幕烧录
 - `Start.vbs` 作为主启动入口
 
-## 推荐仓库名
 
-- 英文项目名：**AI Smart Clipping Tool**
-- GitHub 仓库名建议：**ai-smart-clipping-tool**
 
 ## Windows 快速开始
 

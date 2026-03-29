@@ -59,3 +59,5 @@ pip install -r requirements.txt
 - 或改用本地视频模式
 
 详细错误说明见：`docs/error-codes.md`
+> 感谢抖音：洛克AI 提供的 skill 支持与思路参考。
+> ![3d2847f7ce6258c752215105f1fd3876](https://github.com/user-attachments/assets/2db4e9be-0b83-4607-ad93-d62024344f23)

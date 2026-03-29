@@ -1,0 +1,7 @@
+interface:
+  display_name: "YouTube Shorts ZH"
+  short_description: "把长访谈批量剪成中文硬字幕短视频"
+  default_prompt: "Use $youtube-interview-shorts-zh to turn this YouTube interview URL into 5 to 8 Chinese-subbed short clips."
+
+policy:
+  allow_implicit_invocation: true

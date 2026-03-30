@@ -1,4 +1,6 @@
 [中文](./README.md) | [English](./README_EN.md)
+
+
 [查看「内容方向」详细说明](./CONTENT_DIRECTION_GUIDE_CN.md)
 > 重要提示：下载并解压压缩包后，请先运行 `EnvCheck.exe` 检测当前电脑环境。
 > 若检测结果存在缺失项，请先按提示完成安装或配置，再启动主程序。

@@ -10,7 +10,8 @@
 # AI智能剪辑工具
 
 AI智能剪辑工具是一个以 Windows 为主的本地桌面工作流，用于把长视频、YouTube 视频处理成多个短片，并支持可选的中文字幕硬字幕导出。
-<img width="1262" height="852" alt="image" src="https://github.com/user-attachments/assets/a1bb3e67-6fd1-43c7-bcb4-6549e792d6c9" />
+<img width="1522" height="1012" alt="image" src="https://github.com/user-attachments/assets/70e36d9c-c987-4025-b427-1c0968148791" />
+
 
 ## 主要功能
 
